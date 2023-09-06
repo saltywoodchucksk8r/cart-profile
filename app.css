@@ -14,9 +14,9 @@
   ---------------------------------------------------------------------- */
   :root {
       --color-lightest: #ffcdcd;
-      --color-light: #ee6c6c;
-      --color: #EC6565;
-      --color-dark: #ca4e4e;
+      --color-light: hsl(232, 79%, 68%);
+      --color: hsl(165, 78%, 66%);
+      --color-dark: hsl(235, 70%, 53%);
       --font: "Open Sans", Helvetica, sans-serif;
   }
 
